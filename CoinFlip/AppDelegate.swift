@@ -4,7 +4,7 @@
 //
 //  Created by Csillag Csaba on 2024. 10. 11..
 //
-
+// Flutter MEGNÉZEM!
 import UIKit
 
 @main
